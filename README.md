@@ -1,5 +1,5 @@
 # Bike shop
-Site about selling bicycles, I use json file for data, implementation jquey, ajax...
+Site about selling bicycles, I use json file for data, implementation of jquey, ajax...
 
 Used technologies:
   - Html
