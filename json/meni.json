@@ -1,0 +1,42 @@
+[
+	{
+		"putanja": "index.html",
+		"tekst": "Pocetna",
+		"alt": "pocetna"
+	},
+	{
+		"putanja": "bicikli.html",
+		"tekst": "Bicikli",
+		"alt": "bicikli"
+	},
+	{
+		"putanja": "onama.html",
+		"tekst": "O nama",
+		"alt": "o nama"
+	},
+	{
+		"putanja": "prijava.html",
+		"tekst": "Prijava",
+		"alt": "prijava"
+	},
+	{
+		"putanja": "korpa.html",
+		"tekst": "Korpa",
+		"alt": "korpa"
+	},
+	{
+		"putanja": "oautoru.html",
+		"tekst": "O autoru",
+		"alt": "o autoru"
+	},
+	{
+		"putanja": "dokumentacija.pdf",
+		"tekst": "Dokumentacija",
+		"alt": "dokumentacija"
+	},
+	{
+		"putanja": "sitemap.xml",
+		"tekst": "SiteMap",
+		"alt": "sutemap"
+	}
+]

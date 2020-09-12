@@ -1,0 +1,266 @@
+[
+	{
+		"id": 2,
+		"slika": {
+			"src": "capriolo1.jpg",
+			"alt": "capriolo1"
+		},
+		"slikaShop": {
+			"src": "capriolo1shop.jpg",
+			"alt": "capriolo1shop"
+		},
+		"naziv": "Capriolo FireBall",
+		"cena": "11000",
+		"idMarke": "2",
+		"ramovi": [
+			{
+				"id": 1,
+				"vrednost": 12
+			}
+		]
+	},
+	{
+		"id": 3,
+		"slika": {
+			"src": "capriolo2.jpg",
+			"alt": "capriolo2"
+		},
+		"slikaShop": {
+			"src": "capriolo2shop.jpg",
+			"alt": "capriolo2shop"
+		},
+		"naziv": "Capriolo FireBird",
+		"cena": "15000",
+		"idMarke": "2",
+		"ramovi": [
+			{
+				"id": 1,
+				"vrednost": 12
+			},
+			{
+				"id": 2,
+				"vrednost": 16
+			}
+		]
+	},
+	{
+		"id": 4,
+		"slika": {
+			"src": "cross1.jpg",
+			"alt": "cross1"
+		},
+		"slikaShop": {
+			"src": "cross1shop.jpg",
+			"alt": "cross1shop"
+		},
+		"naziv": "Cross Speester",
+		"cena": "12000",
+		"idMarke": "3",
+		"ramovi": [
+			{
+				"id": 1,
+				"vrednost": 12
+			},
+			{
+				"id": 2,
+				"vrednost": 16
+			}
+		]
+	},
+	{
+		"id": 5,
+		"slika": {
+			"src": "ktm1.jpg",
+			"alt": "ktm1"
+		},
+		"slikaShop": {
+			"src": "ktm1shop.jpg",
+			"alt": "ktm1shop"
+		},
+		"naziv": "Ktm Maciana Race",
+		"cena": "30000",
+		"idMarke": "4",
+		"ramovi": [
+			{
+				"id": 3,
+				"vrednost": 20
+			},
+			{
+				"id": 4,
+				"vrednost": 24
+			}
+		]
+	},
+	{
+		"id": 6,
+		"slika": {
+			"src": "ktm2.jpg",
+			"alt": "ktm2"
+		},
+		"slikaShop": {
+			"src": "ktm2shop.jpg",
+			"alt": "ktm2shop"
+		},
+		"naziv": "Ktm Maranelo",
+		"cena": "35000",
+		"idMarke": "4",
+		"ramovi": [
+			{
+				"id": 3,
+				"vrednost": 20
+			}
+		]
+	},
+	{
+		"id": 7,
+		"slika": {
+			"src": "cross2.jpg",
+			"alt": "cross2"
+		},
+		"slikaShop": {
+			"src": "cross2shop.jpg",
+			"alt": "cross2shop"
+		},
+		"naziv": "Cross Montana",
+		"cena": "27000",
+		"idMarke": "3",
+		"ramovi": [
+			{
+				"id": 2,
+				"vrednost": 16
+			}
+		]
+	},
+	{
+		"id": 8,
+		"slika": {
+			"src": "cross3.jpg",
+			"alt": "cross3"
+		},
+		"slikaShop": {
+			"src": "cross3shop.jpg",
+			"alt": "cross3shop"
+		},
+		"naziv": "Cross Fusion",
+		"cena": "22000",
+		"idMarke": "3",
+		"ramovi": [
+			{
+				"id": 4,
+				"vrednost": 24
+			}
+		]
+	},
+	{
+		"id": 9,
+		"slika": {
+			"src": "cross4.jpg",
+			"alt": "cross4"
+		},
+		"slikaShop": {
+			"src": "cross4shop.jpg",
+			"alt": "cross4shop"
+		},
+		"naziv": "Cross Scorpion",
+		"cena": "32000",
+		"idMarke": "3",
+		"ramovi": [
+			{
+				"id": 1,
+				"vrednost": 12
+			},
+			{
+				"id": 3,
+				"vrednost": 20
+			}
+		]
+	},
+	{
+		"id": 10,
+		"slika": {
+			"src": "ktm3.jpg",
+			"alt": "ktm3"
+		},
+		"slikaShop": {
+			"src": "ktm3shop.jpg",
+			"alt": "ktm3shop"
+		},
+		"naziv": "Ktm Life Race",
+		"cena": "27000",
+		"idMarke": "4",
+		"ramovi": [
+			{
+				"id": 2,
+				"vrednost": 16
+			}
+		]
+	},
+	{
+		"id": 11,
+		"slika": {
+			"src": "capriolo3.jpg",
+			"alt": "capriolo3"
+		},
+		"slikaShop": {
+			"src": "capriolo3shop.jpg",
+			"alt": "capriolo3shop"
+		},
+		"naziv": "Capriolo Roadster",
+		"cena": "22000",
+		"idMarke": "2",
+		"ramovi": [
+			{
+				"id": 3,
+				"vrednost": 20
+			},
+			{
+				"id": 4,
+				"vrednost": 24
+			}
+		]
+	},
+	{
+		"id": 12,
+		"slika": {
+			"src": "alpina2.jpg",
+			"alt": "alpina2"
+		},
+		"slikaShop": {
+			"src": "alpina2shop.jpg",
+			"alt": "alpina2shop"
+		},
+		"naziv": "Alpina Buffalo",
+		"cena": "24000",
+		"idMarke": "1",
+		"ramovi": [
+			{
+				"id": 4,
+				"vrednost": 24
+			}
+		]
+	},
+	{
+		"id": 13,
+		"slika": {
+			"src": "alpina3.jpg",
+			"alt": "alpina3"
+		},
+		"slikaShop": {
+			"src": "alpina3shop.jpg",
+			"alt": "alpina3shop"
+		},
+		"naziv": "Alpina FS MTB",
+		"cena": "24000",
+		"idMarke": "1",
+		"ramovi": [
+			{
+				"id": 1,
+				"vrednost": 12
+			},
+			{
+				"id": 2,
+				"vrednost": 16
+			}
+		]
+	}
+]

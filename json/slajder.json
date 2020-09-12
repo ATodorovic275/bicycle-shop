@@ -1,0 +1,20 @@
+[
+	{
+		"slika": {
+			"src": "slajder1.jpg",
+			"alt": "slajder1"
+		}
+	},
+	{
+		"slika": {
+			"src": "slajder2.jpg",
+			"alt": "slajder2"
+		}
+	},
+	{
+		"slika": {
+			"src": "slajder3.jpg",
+			"alt": "slajder3"
+		}
+	}
+]
