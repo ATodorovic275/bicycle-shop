@@ -14,4 +14,4 @@ Used technologies:
   - Ajax
   - Bootstrap
   
-[see project](http://bicycle-shop.infinityfreeapp.com/bicikli.html)
+# [see project](http://bicycle-shop.infinityfreeapp.com/bicikli.html)
