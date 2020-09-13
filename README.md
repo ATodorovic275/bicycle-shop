@@ -12,3 +12,6 @@ Used technologies:
   - Css
   - Js (Jquery)
   - Ajax
+  - Bootstrap
+  
+[see project](http://bicycle-shop.infinityfreeapp.com/bicikli.html)
