@@ -14,4 +14,4 @@ Used technologies:
   - Ajax
   - Bootstrap
   
-# [see project](bicycle-shop.epizy.com)
+# [see project](http://bicycle-shop.epizy.com/index.html?i=1)
